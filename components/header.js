@@ -13,6 +13,7 @@ export default function Header() {
           alt="Mobile phone with posts feed on it"
           width={100}
           height={100}
+          priority
         // sizes='10vw'
         />
       </Link>
