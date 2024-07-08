@@ -1,4 +1,7 @@
 ## What's Changed
+* Merge pull request #7 from MrMic/L199
+* feat(UI): Configure CSS for images w/ "fill" property
+* feat: Add CHANGELOG.md w/ git-cliff
 * Merge pull request #6 from MrMic/L198
 * feat(UI): Loading Unknown Images & Image fill property
 * Merge pull request #5 from MrMic/L197
