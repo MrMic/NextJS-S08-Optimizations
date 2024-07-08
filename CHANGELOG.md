@@ -1,4 +1,6 @@
 ## What's Changed
+* Merge pull request #8 from MrMic/L200
+* feat(UI): Use of Image Loader & Cloudinary Resizing
 * Merge pull request #7 from MrMic/L199
 * feat(UI): Configure CSS for images w/ "fill" property
 * feat: Add CHANGELOG.md w/ git-cliff
