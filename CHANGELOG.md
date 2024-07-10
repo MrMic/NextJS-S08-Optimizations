@@ -1,4 +1,7 @@
 ## What's Changed
+* feat: Configure Dynamic Page Metadata
+* Merge pull request #9 from MrMic/L202
+* Update: CHANGELOG.md
 * feat: Configure Static Page Metadata
 * update: CHANGELOG.md
 * Merge pull request #8 from MrMic/L200
